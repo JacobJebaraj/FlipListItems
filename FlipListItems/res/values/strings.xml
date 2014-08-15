@@ -15,5 +15,5 @@
     <string name="alert_dialog_delete_text">Are you sure you want delete this?</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="alert_dialog_cancel">Cancel</string>
-    <string name="list_item_text">List Item </string>
+    <string name="list_item_text">List Item&#160;</string>
 </resources>
